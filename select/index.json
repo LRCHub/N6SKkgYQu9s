@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "百花繚乱花吹雪",
+  "base_artist": "hololive IDOL PROJECT",
+  "createdAt": "2026-02-06T07:30:02.167663Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "百花繚乱花吹雪",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/01_百花繚乱花吹雪_hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "百花繚乱花吹雪 - Bouquet ver.",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/02_百花繚乱花吹雪_-_Bouquet_ver._hololive_IDOL_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "百花繚乱花吹雪",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/03_百花繚乱花吹雪_hololive_IDOL_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "百花繚乱花吹雪",
+      "artist": "Hololive",
+      "has_synced": true,
+      "path": "select/04_百花繚乱花吹雪_Hololive.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "百花繚乱花吹雪",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/pl_01_百花繚乱花吹雪_hololive_IDOL_PROJECT.txt"
+    }
+  ]
+}
