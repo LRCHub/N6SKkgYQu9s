@@ -1,4 +1,4 @@
-# hololive IDOL PROJECT – 百花繚乱花吹雪
+# hololive IDOL PROJECT – 百花繚乱花吹雪 (Bouquet ver.)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
